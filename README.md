@@ -1,6 +1,6 @@
 # Sine(x) for motion animation
 
-UnityEngine.Mathf.Sin(x) / Unity.Mathematics.math.sin(x)
+[UnityEngine.Mathf.Sin(x)](https://docs.unity3d.com/ScriptReference/Mathf.Sin.html) / [Unity.Mathematics.math.sin(x)](https://github.com/Unity-Technologies/Unity.Mathematics)
 
 <img src="https://user-images.githubusercontent.com/263776/51221479-454e5780-18ff-11e9-991b-07e0223f83dc.gif" width="325" height="195">
 
