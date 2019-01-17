@@ -15,7 +15,7 @@ The graph of the given motion looks something like this. The X axis will be time
   <img src="https://user-images.githubusercontent.com/263776/51295635-2377d200-19de-11e9-98ba-fa0511e8ea45.PNG" width="325" height="195">
 </p>
 
-This was plotted using Wolfram Alpha, and using just the function sin(x); I won’t go into a lot of detail here, but just remember that the sine function goes from -1 to 1. So, for every x value we enter, a value of y will go from -1, 1. 
+This was plotted using [Wolfram Alpha](https://www.wolframalpha.com/input/?i=sin(x)), and using just the function sin(x); I won’t go into a lot of detail here, but just remember that the sine function goes from -1 to 1. So, for every x value we enter, a value of y will go from -1, 1. 
 
 So, if we go to Unity and code the function based on Time.time, we would end up with an animation like this.
 
@@ -45,8 +45,8 @@ The motion with the following code and speed = 5 and amplitude = 3 looks like th
 <img src= "https://user-images.githubusercontent.com/263776/51222994-a9741a00-1905-11e9-8b46-8fd5ed65ff00.gif" width="325" height="195">
 </p>
 
-Hope this explanation is useful, and serves as a starting point to explore other functions to create more complex animations. If you have any question, you can reach me at [@ArturoNereu](https://twitter.com/arturonereu)
-
 ###### transform.position = originalTransform + new Vector3(0, Mathf.Sin(Time.time * speed) * amplitude, 0);
+
+Hope this explanation is useful, and serves as a starting point to explore other functions to create more complex animations. If you have any question, you can reach me at [@ArturoNereu](https://twitter.com/arturonereu)
 
 Sine, Cosine animation By LucasVB - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=31642523
