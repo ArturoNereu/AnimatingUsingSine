@@ -45,7 +45,7 @@ The motion with the following code and speed = 5 and amplitude = 3 looks like th
 <img src= "https://user-images.githubusercontent.com/263776/51222994-a9741a00-1905-11e9-8b46-8fd5ed65ff00.gif" width="325" height="195">
 </p>
 
-Hope this explanation is useful, and serves as a starting point to explore other functions to create more complex animations. If you have any question, you can reach me at [@ArturoNereu](twitter.com/arturonereu)
+Hope this explanation is useful, and serves as a starting point to explore other functions to create more complex animations. If you have any question, you can reach me at [@ArturoNereu](https://twitter.com/arturonereu)
 
 ###### transform.position = originalTransform + new Vector3(0, Mathf.Sin(Time.time * speed) * amplitude, 0);
 
