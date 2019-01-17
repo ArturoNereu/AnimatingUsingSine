@@ -1,4 +1,4 @@
-# Sine(x) for motion animation
+# Using Sine(x) to move an object
 
 [UnityEngine.Mathf.Sin(x)](https://docs.unity3d.com/ScriptReference/Mathf.Sin.html) / [Unity.Mathematics.math.sin(x)](https://github.com/Unity-Technologies/Unity.Mathematics)
 
